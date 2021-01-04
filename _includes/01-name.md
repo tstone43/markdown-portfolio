@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Thomas Stone
+## Learning headers in markdown is fun
